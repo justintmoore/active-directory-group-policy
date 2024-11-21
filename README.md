@@ -6,6 +6,7 @@
 - Microsoft Azure <br>
 - Remote Desktop <br>
 - Active Directory
+- Event Viewer
 
 ## Environments Used
 - Windows 10 <br>
