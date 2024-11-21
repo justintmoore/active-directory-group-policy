@@ -191,4 +191,7 @@
 <p align="center">
     As an IT Technician I have some hands on experience with Active Directory, but without Admin privileges, most of what I do is surface level. This what a good refresher in some aspects such as resetting passwords, and searching for objects within AD. I now have a good understanding of admin responsibilities in dealing with account lockouts, and the processes that deal with them. I gained new knowledge in observing Event Viewer Logs, andfrom a security standpoint how effective a tool this can be. Utilizing Azure continuously I am building a working knowledge of the architecture that is behind the name. This lab is just a foundation, I plan to explore further, and recreate scenarios I could face in the workplace. The Marathon Continues!
 </p>
-
+<br>
+<p align="center">
+    <strong>The Marathon Continues!</strong>
+</p>
